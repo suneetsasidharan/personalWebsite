@@ -8,6 +8,10 @@ a:link,a:visited,.navbar-default .navbar-nav>li>a:hover,
 	color:#3498db;
 }
 
+div.row>div.col-sm-5.contact-info>p>a{
+ color:#ffffff;
+}
+
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
 
 background: #3498db;
