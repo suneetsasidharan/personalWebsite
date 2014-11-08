@@ -524,6 +524,18 @@ label.valid{
     -o-transform:rotate(360deg);
 }
 
+.btn-gmail:hover{
+    color:#D3492C;
+}
+
+.btn-youtube:hover{
+    color:#ff0000;
+}
+
+.btn-github:hover{
+    color:#808080;
+}
+
 .btn-twitter:hover{
     color:#2BA9E0;
 }
@@ -532,20 +544,24 @@ label.valid{
     color:#204385;
 }
 
-.btn-dribbble:hover{
+.btn-flickr:hover{
     color:#D92C85;
 }
 
 .btn-instagram:hover{
-    color:#BAB1A8;
+    color:#a52a2a;
 }
 
 .btn-linkedin:hover{
     color:#015786;
 }
 
-.btn-pinterest:hover{
-    color:#CA2128;
+.btn-grooveshark:hover{
+    color:#ffA500;
+}
+
+.btn-blog:hover{
+    color:#008000;
 }
 
 .btn-google:hover{
